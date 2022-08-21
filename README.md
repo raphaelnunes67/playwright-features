@@ -1,7 +1,3 @@
-# treinamento-playwright
+# playwright-features
 
-## Exemplos desenvolvidos nas aulas
-
-Instale as dependências no arquivo `requirements.txt`
-
-`pip install -r requirements.txt`
+## Some apps based on playwright and unittest scope
