@@ -1,3 +1,3 @@
 # playwright-features
 
-## Some apps based on playwright and unittest scope
+Some applications based on playwright and unittest scope
